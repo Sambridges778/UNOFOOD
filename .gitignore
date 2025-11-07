@@ -1,0 +1,21 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / Build
+node_modules/
+dist/
+build/
+
+# WeChat Miniprogram
+project.private.config.json
+local.settings.json
+
+# Logs
+*.log
+logs/
+
+# Trae / temp
+.trae/tmp/
